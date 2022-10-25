@@ -1,0 +1,65 @@
+[
+    {
+      "id": "1",
+      "name": "Web Development",
+      "img": "https://www.webindiamaster.com/assests/images/web-development-company-1-2022.jpg?tr=w-425",
+      "description": "This course is designed to start you on a path toward future studies in web development and design, no matter how little experience or technical knowledge you currently have. The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business, entertainment or education. But have you ever wondered how these websites actually work? How are they built? How do browsers, computers, and mobile devices interact with the web? What skills are necessary to build a website? With almost 1 billion websites now on the internet, the answers to these questions could be your first step toward a better understanding of the internet and developing a new set of internet skills.  By the end of this course you’ll be able to describe the structure and functionality of the world wide web, create dynamic web pages using a combination of HTML, CSS, and JavaScript, apply essential programming language concepts when creating HTML forms, select an appropriate web hosting service, and publish your webpages for the world to see. Finally, you’ll be able to develop a working model for creating your own personal or business websites in the future and be fully prepared to take the next step in a more advanced web development or design course or specialization.",
+      "skills":"Cascading Style Sheets (CSS) HTML Git (Software) JavaScript Cloud Applications",
+      "ratings": 4.5 ,
+      "reviews": 4.8,
+      "Duration": 400
+
+    },
+    {
+        "id": "2",
+        "name": "App Development",
+        "img": "https://reliasoftware.com/static/9ce8aa204a21e69716018fee472b042c/54967/the-complete-guide-to-mobile-app-development-2021.png",
+        "description": "This Specialization enables learners to successfully apply core Java programming languages features & software patterns needed to develop maintainable mobile apps comprised of core Android components, as well as fundamental Java I/O & persistence mechanisms. The Capstone project will integrate the material from throughout the Specialization to exercise and assess the ability of learners to create an interesting Android app by applying knowledge and skills learned in previous MOOCs, including Java programming features, Android Studio tools, Android Activity components, Material Design, file I/O and data persistence, unit testing, and software patterns. The project itself will be similar in design goals to previous assignments, however it will provide less of the skeleton code than earlier MOOCs provide to enable more creativity to learners and greater opportunity for learners to customize the app. ",
+        "skills":"Computer Programming  Object-Oriented Programming (OOP)  Android Software Development Android Studio Unit Testing",
+        "ratings": 4.6 ,
+        "reviews": 5.2,
+        "Duration": 350
+      },
+      {
+        "id": "3",
+        "name": "Software Development Lifecycle",
+        "img": "https://cdn2.hubspot.net/hubfs/3928454/6%20Benefits%20of%20a%20Systems%20Development%20Life%20Cycle.jpg",
+        "description": "This Specialization is designed for people who are new to software engineering. It's also for those who have already developed software, but wish to gain a deeper understanding of the underlying context and theory of software development practices. At the end of this Specialization, we expect learners to be able to: Build high-quality and secure software using SDLC methodologies such as agile, lean, and traditional/waterfall,Analyze a software development team's SDLC methodology and make recommendations for improvements,Compare and contrast software development methodologies with respect to environmental, organizational, and product constraints.",
+        "skills":"Lean Software Development Agile Software Development Software Development Process Software Development Kit (SDK)",
+        "ratings": 5.0 ,
+        "reviews": 12.0,
+        "Duration": 300
+      },
+      {
+        "id": "4",
+        "name": "Cyber Security",
+        "img": "https://www.ncrypted.net/blog/wp-content/uploads/2019/06/cybersecurity-blog-img.jpg",
+        "description":"There are a growing number of exciting, well-paying jobs in today’s security industry that do not require a traditional college degree.  Forbes estimates that there will be as many as 3.5 million unfilled positions in the industry worldwide by 2021! One position with a severe shortage of skills is as a junior cybersecurity analyst.Throughout this specialization, you will learn concepts around cybersecurity tools and processes, system administration,  operating system and database vulnerabilities, types of cyber attacks and basics of networking. You will also gain knowledge around important topics such as cryptography and digital forensics.  ",
+        "skills":"Operating System Security  database vulnerabilities Cybersecurity networking basics Cyber Attacks",
+        "ratings": 4.3 ,
+        "reviews": 16.0,
+        "Duration": 280
+      },
+      {
+        "id": "5",
+        "name": "Graphic Design",
+        "img": "https://pepperyourcontent.com/wp-content/uploads/2022/02/7-Attributes-of-succesful-graphic-designers.png",
+        "description":"Graphic design is all around us, in a myriad of forms, both on screen and in print, yet it is always made up of images and words to create a communication goal. This four-course sequence exposes students to the fundamental skills required to make sophisticated graphic design: process, historical context, and communication through image-making and typography. The sequence is completed by a capstone project that applies the skills of each course and peer feedback in a finished branding project suitable for a professional portfolio.The goal of this specialization is to equip learners with a set of transferable formal and conceptual tools for “making and communicating” in the field of graphic design. This core skill set will equip learners for formal studies in graphic design, and a starting point for further work in interface design, motion graphics, and editorial design.",
+        "skills":"Visual Communication Branding Communication Graphic Design Art History Typography Creativity",
+        "ratings": 4.4 ,
+        "reviews": 18.0,
+        "Duration": 250
+
+      },
+      {
+        "id": "6",
+        "name": "Digital Marketing",
+        "img": "https://etimg.etb2bimg.com/photo/94442809.cms",
+        "description":"This Specialization explores several aspects of the new digital marketing environment, including topics such as digital marketing analytics, search engine optimization, social media marketing, and 3D Printing. When you complete the Digital Marketing Specialization you will have a richer understanding of the foundations of the new digital marketing landscape and acquire a new set of stories, concepts, and tools to help you digitally create, distribute, promote and price products and services.",
+        "skills":"Digital Marketing Data Collection Analytics Data Analysis  Data Visualization (DataViz) Marketing Analytics",
+        "ratings": 4.2 ,
+        "reviews": 20.0,
+        "Duration": 180
+      }
+
+]
