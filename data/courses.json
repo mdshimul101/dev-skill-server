@@ -7,7 +7,9 @@
       "skills":"Cascading Style Sheets (CSS) HTML Git (Software) JavaScript Cloud Applications",
       "ratings": 4.5 ,
       "reviews": 4.8,
-      "Duration": 400
+      "Duration": 400,
+      "price": 5500,
+      "discount":22
 
     },
     {
@@ -18,7 +20,9 @@
         "skills":"Computer Programming  Object-Oriented Programming (OOP)  Android Software Development Android Studio Unit Testing",
         "ratings": 4.6 ,
         "reviews": 5.2,
-        "Duration": 350
+        "Duration": 350,
+        "price": 4500,
+        "discount":12
       },
       {
         "id": "3",
@@ -28,7 +32,9 @@
         "skills":"Lean Software Development Agile Software Development Software Development Process Software Development Kit (SDK)",
         "ratings": 5.0 ,
         "reviews": 12.0,
-        "Duration": 300
+        "Duration": 300,
+        "price": 6200,
+        "discount":25
       },
       {
         "id": "4",
@@ -38,7 +44,9 @@
         "skills":"Operating System Security  database vulnerabilities Cybersecurity networking basics Cyber Attacks",
         "ratings": 4.3 ,
         "reviews": 16.0,
-        "Duration": 280
+        "Duration": 280,
+        "price": 7000,
+        "discount":10
       },
       {
         "id": "5",
@@ -48,7 +56,9 @@
         "skills":"Visual Communication Branding Communication Graphic Design Art History Typography Creativity",
         "ratings": 4.4 ,
         "reviews": 18.0,
-        "Duration": 250
+        "Duration": 250,
+        "price": 3500,
+        "discount":20
 
       },
       {
@@ -59,7 +69,9 @@
         "skills":"Digital Marketing Data Collection Analytics Data Analysis  Data Visualization (DataViz) Marketing Analytics",
         "ratings": 4.2 ,
         "reviews": 20.0,
-        "Duration": 180
+        "Duration": 180,
+        "price": 3000,
+        "discount":25
       }
 
 ]
